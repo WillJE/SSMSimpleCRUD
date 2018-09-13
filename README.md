@@ -41,10 +41,10 @@
 1、单个删除
 
 #### API
-/emp/{id} GET查询员工
-/emp      POST保存员工
-/emp/{id} PUT修改员工
-/emp/{id} DELETE 删除员工
+- /emp/{id} GET查询员工
+- /emp      POST保存员工
+- /emp/{id} PUT修改员工
+- /emp/{id} DELETE 删除员工
 
 ### 项目截图
 **首页**
