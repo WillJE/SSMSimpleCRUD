@@ -47,9 +47,12 @@
 - /emp/{id} DELETE 删除员工
 
 ### 项目截图
+
 **首页**
+
 ![首页](https://github.com/WillJE/SSMSimpleCRUD/blob/master/screenshot/%E9%A6%96%E9%A1%B5.png)
 
 **新增员工**
+
 ![新增员工](https://github.com/WillJE/SSMSimpleCRUD/blob/master/screenshot/%E5%91%98%E5%B7%A5%E6%B7%BB%E5%8A%A0.png)
 
